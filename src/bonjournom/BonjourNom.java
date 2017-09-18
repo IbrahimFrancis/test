@@ -23,6 +23,7 @@ public class BonjourNom {
         System.out.println(zied.getAge());
         zied.setFirstName("Jean");
         System.out.println(zied.getFirstName());
+        System.out.print("hello world");
     }
     
 }
